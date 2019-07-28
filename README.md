@@ -4,7 +4,7 @@
 
 ## 1. Motivation
 
-What varieties make up the world's best wine? What features contribute to this? Surprisingly, the most expensive 'good' wine from Champagne is actually a Chardonnay. Both Chardonnay and Bordeaux come up as the most expensive wines rated in the world and perhaps we can infer features, through their tasting notes and descriptive notes, that can determine the price of a wine.
+What varieties make up the world's best wine? What features contribute to this? Surprisingly, the most expensive 'good' wine from Champagne is actually a Chardonnay. Both Chardonnay and Bordeaux come up as the most expensive wines rated in the world and perhaps we can infer features, through their tasting notes and descriptive notes, the elements that can determine wine prices.
 
 ## 2. Description of Data
 
